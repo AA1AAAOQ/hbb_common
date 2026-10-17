@@ -114,8 +114,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["your-domain.com:21116"];
-pub const RS_PUB_KEY: &str = "YOUR_SERVER_PUBLIC_KEY_HERE=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.vaught.dpdns.org:21116"];
+pub const RS_PUB_KEY: &str = "kzB2nZZh0wiHZ1bLIIu6E6ieACdynYO58+JQiCkzlOQ=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
